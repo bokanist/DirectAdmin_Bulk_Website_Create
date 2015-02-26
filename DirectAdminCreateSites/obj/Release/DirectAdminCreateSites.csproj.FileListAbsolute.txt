@@ -1,0 +1,9 @@
+C:\Zdisk\Projets\15 02 - Agoranet - Migration 2\DirectAdminCreateSites\DirectAdminCreateSites\bin\Release\DirectAdminCreateSites.exe
+C:\Zdisk\Projets\15 02 - Agoranet - Migration 2\DirectAdminCreateSites\DirectAdminCreateSites\bin\Release\DirectAdminCreateSites.exe.config
+C:\Zdisk\Projets\15 02 - Agoranet - Migration 2\DirectAdminCreateSites\DirectAdminCreateSites\bin\Release\DirectAdminCreateSites.pdb
+C:\Zdisk\Projets\15 02 - Agoranet - Migration 2\DirectAdminCreateSites\DirectAdminCreateSites\obj\Release\DirectAdminCreateSites.csprojResolveAssemblyReference.cache
+C:\Zdisk\Projets\15 02 - Agoranet - Migration 2\DirectAdminCreateSites\DirectAdminCreateSites\obj\Release\DirectAdminCreateSites.Form1.resources
+C:\Zdisk\Projets\15 02 - Agoranet - Migration 2\DirectAdminCreateSites\DirectAdminCreateSites\obj\Release\DirectAdminCreateSites.Properties.Resources.resources
+C:\Zdisk\Projets\15 02 - Agoranet - Migration 2\DirectAdminCreateSites\DirectAdminCreateSites\obj\Release\DirectAdminCreateSites.csproj.GenerateResource.Cache
+C:\Zdisk\Projets\15 02 - Agoranet - Migration 2\DirectAdminCreateSites\DirectAdminCreateSites\obj\Release\DirectAdminCreateSites.exe
+C:\Zdisk\Projets\15 02 - Agoranet - Migration 2\DirectAdminCreateSites\DirectAdminCreateSites\obj\Release\DirectAdminCreateSites.pdb
